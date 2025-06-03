@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-06-03T17:41:36.792529",
+    "user_input": "Hi what can u do?",
+    "agent_response": "I encountered an error: /home/dell/KSPL/COZY_LIBS_2/libdl.so.2: undefined symbol: _dl_vsym, version GLIBC_PRIVATE",
+    "context": {}
+  },
+  {
+    "timestamp": "2025-06-03T17:42:36.549572",
+    "user_input": "query='Who is CM of Karnataka'",
+    "agent_response": "I encountered an error: /home/dell/KSPL/COZY_LIBS_2/libdl.so.2: undefined symbol: _dl_vsym, version GLIBC_PRIVATE",
+    "context": {}
+  },
+  {
+    "timestamp": "2025-06-03T17:45:24.145822",
+    "user_input": "WHO IS CM OF KARNATAKA?",
+    "agent_response": "I encountered an error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+    "context": {}
+  }
+]
